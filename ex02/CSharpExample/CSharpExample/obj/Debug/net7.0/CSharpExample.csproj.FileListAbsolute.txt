@@ -1,0 +1,15 @@
+/Users/byeukim/Desktop/CSharp/ex02/CSharpExample/CSharpExample/bin/Debug/net7.0/CSharpExample
+/Users/byeukim/Desktop/CSharp/ex02/CSharpExample/CSharpExample/bin/Debug/net7.0/CSharpExample.deps.json
+/Users/byeukim/Desktop/CSharp/ex02/CSharpExample/CSharpExample/bin/Debug/net7.0/CSharpExample.runtimeconfig.json
+/Users/byeukim/Desktop/CSharp/ex02/CSharpExample/CSharpExample/bin/Debug/net7.0/CSharpExample.dll
+/Users/byeukim/Desktop/CSharp/ex02/CSharpExample/CSharpExample/bin/Debug/net7.0/CSharpExample.pdb
+/Users/byeukim/Desktop/CSharp/ex02/CSharpExample/CSharpExample/obj/Debug/net7.0/CSharpExample.csproj.AssemblyReference.cache
+/Users/byeukim/Desktop/CSharp/ex02/CSharpExample/CSharpExample/obj/Debug/net7.0/CSharpExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/byeukim/Desktop/CSharp/ex02/CSharpExample/CSharpExample/obj/Debug/net7.0/CSharpExample.AssemblyInfoInputs.cache
+/Users/byeukim/Desktop/CSharp/ex02/CSharpExample/CSharpExample/obj/Debug/net7.0/CSharpExample.AssemblyInfo.cs
+/Users/byeukim/Desktop/CSharp/ex02/CSharpExample/CSharpExample/obj/Debug/net7.0/CSharpExample.csproj.CoreCompileInputs.cache
+/Users/byeukim/Desktop/CSharp/ex02/CSharpExample/CSharpExample/obj/Debug/net7.0/CSharpExample.dll
+/Users/byeukim/Desktop/CSharp/ex02/CSharpExample/CSharpExample/obj/Debug/net7.0/refint/CSharpExample.dll
+/Users/byeukim/Desktop/CSharp/ex02/CSharpExample/CSharpExample/obj/Debug/net7.0/CSharpExample.pdb
+/Users/byeukim/Desktop/CSharp/ex02/CSharpExample/CSharpExample/obj/Debug/net7.0/CSharpExample.genruntimeconfig.cache
+/Users/byeukim/Desktop/CSharp/ex02/CSharpExample/CSharpExample/obj/Debug/net7.0/ref/CSharpExample.dll

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{74E267A2-9C5A-4533-85CC-DE5CECE2AFD8}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharp04/Program.cs">
+    <Files>
+      <File FileName="CSharp04/Program.cs" Line="57" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharp04" expanded="True">
+            <Node name="CSharp04" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CSharp04 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

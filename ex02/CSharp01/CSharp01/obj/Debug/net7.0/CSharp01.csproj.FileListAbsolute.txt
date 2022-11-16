@@ -1,0 +1,15 @@
+/Users/byeukim/Desktop/CSharp/ex02/CSharp01/CSharp01/obj/Debug/net7.0/CSharp01.csproj.AssemblyReference.cache
+/Users/byeukim/Desktop/CSharp/ex02/CSharp01/CSharp01/obj/Debug/net7.0/CSharp01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/byeukim/Desktop/CSharp/ex02/CSharp01/CSharp01/obj/Debug/net7.0/CSharp01.AssemblyInfoInputs.cache
+/Users/byeukim/Desktop/CSharp/ex02/CSharp01/CSharp01/obj/Debug/net7.0/CSharp01.AssemblyInfo.cs
+/Users/byeukim/Desktop/CSharp/ex02/CSharp01/CSharp01/obj/Debug/net7.0/CSharp01.csproj.CoreCompileInputs.cache
+/Users/byeukim/Desktop/CSharp/ex02/CSharp01/CSharp01/bin/Debug/net7.0/CSharp01
+/Users/byeukim/Desktop/CSharp/ex02/CSharp01/CSharp01/bin/Debug/net7.0/CSharp01.deps.json
+/Users/byeukim/Desktop/CSharp/ex02/CSharp01/CSharp01/bin/Debug/net7.0/CSharp01.runtimeconfig.json
+/Users/byeukim/Desktop/CSharp/ex02/CSharp01/CSharp01/bin/Debug/net7.0/CSharp01.dll
+/Users/byeukim/Desktop/CSharp/ex02/CSharp01/CSharp01/bin/Debug/net7.0/CSharp01.pdb
+/Users/byeukim/Desktop/CSharp/ex02/CSharp01/CSharp01/obj/Debug/net7.0/CSharp01.dll
+/Users/byeukim/Desktop/CSharp/ex02/CSharp01/CSharp01/obj/Debug/net7.0/refint/CSharp01.dll
+/Users/byeukim/Desktop/CSharp/ex02/CSharp01/CSharp01/obj/Debug/net7.0/CSharp01.pdb
+/Users/byeukim/Desktop/CSharp/ex02/CSharp01/CSharp01/obj/Debug/net7.0/CSharp01.genruntimeconfig.cache
+/Users/byeukim/Desktop/CSharp/ex02/CSharp01/CSharp01/obj/Debug/net7.0/ref/CSharp01.dll

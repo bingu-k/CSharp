@@ -1,0 +1,15 @@
+/Users/byeukim/Desktop/CSharp/ex02/CSharp04/CSharp04/bin/Debug/net7.0/CSharp04
+/Users/byeukim/Desktop/CSharp/ex02/CSharp04/CSharp04/bin/Debug/net7.0/CSharp04.deps.json
+/Users/byeukim/Desktop/CSharp/ex02/CSharp04/CSharp04/bin/Debug/net7.0/CSharp04.runtimeconfig.json
+/Users/byeukim/Desktop/CSharp/ex02/CSharp04/CSharp04/bin/Debug/net7.0/CSharp04.dll
+/Users/byeukim/Desktop/CSharp/ex02/CSharp04/CSharp04/bin/Debug/net7.0/CSharp04.pdb
+/Users/byeukim/Desktop/CSharp/ex02/CSharp04/CSharp04/obj/Debug/net7.0/CSharp04.csproj.AssemblyReference.cache
+/Users/byeukim/Desktop/CSharp/ex02/CSharp04/CSharp04/obj/Debug/net7.0/CSharp04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/byeukim/Desktop/CSharp/ex02/CSharp04/CSharp04/obj/Debug/net7.0/CSharp04.AssemblyInfoInputs.cache
+/Users/byeukim/Desktop/CSharp/ex02/CSharp04/CSharp04/obj/Debug/net7.0/CSharp04.AssemblyInfo.cs
+/Users/byeukim/Desktop/CSharp/ex02/CSharp04/CSharp04/obj/Debug/net7.0/CSharp04.csproj.CoreCompileInputs.cache
+/Users/byeukim/Desktop/CSharp/ex02/CSharp04/CSharp04/obj/Debug/net7.0/CSharp04.dll
+/Users/byeukim/Desktop/CSharp/ex02/CSharp04/CSharp04/obj/Debug/net7.0/refint/CSharp04.dll
+/Users/byeukim/Desktop/CSharp/ex02/CSharp04/CSharp04/obj/Debug/net7.0/CSharp04.pdb
+/Users/byeukim/Desktop/CSharp/ex02/CSharp04/CSharp04/obj/Debug/net7.0/CSharp04.genruntimeconfig.cache
+/Users/byeukim/Desktop/CSharp/ex02/CSharp04/CSharp04/obj/Debug/net7.0/ref/CSharp04.dll

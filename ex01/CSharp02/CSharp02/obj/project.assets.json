@@ -8,26 +8,25 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {}
+    "/Users/byeukim/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\CSharp\\ex01\\CSharp02\\CSharp02\\CSharp02.csproj",
+      "projectUniqueName": "/Users/byeukim/Desktop/CSharp/ex01/CSharp02/CSharp02/CSharp02.csproj",
       "projectName": "CSharp02",
-      "projectPath": "C:\\Users\\USER\\Desktop\\CSharp\\ex01\\CSharp02\\CSharp02\\CSharp02.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\CSharp\\ex01\\CSharp02\\CSharp02\\obj\\",
+      "projectPath": "/Users/byeukim/Desktop/CSharp/ex01/CSharp02/CSharp02/CSharp02.csproj",
+      "packagesPath": "/Users/byeukim/.nuget/packages/",
+      "outputPath": "/Users/byeukim/Desktop/CSharp/ex01/CSharp02/CSharp02/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/byeukim/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
