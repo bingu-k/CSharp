@@ -10,3 +10,7 @@
   - Section 3. TextRPG
 - ex04
   - Section 4. 객체지향 
+- ex05
+  - Section 5. TextRPG2
+- ex06
+  - Section 6. 자료구조 
