@@ -14,3 +14,9 @@
   - Section 5. TextRPG2
 - ex06
   - Section 6. 자료구조 
+- ex07
+  - Section 7. 알아두면 유용한 기타 문법
+
+***
+### 인프런에서 Rookies님의 강의를 보고 학습중입니다.
+#### [C#과 유니티로 만드는 MMORPG 게임 개발 시리즈] Part2: 자료구조와 알고리즘
