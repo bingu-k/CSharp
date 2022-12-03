@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\CSharp\ex07\CSharp07\CSharp07\bin\Debug\net7.0\CSharp07.exe
+C:\Users\USER\Desktop\CSharp\ex07\CSharp07\CSharp07\bin\Debug\net7.0\CSharp07.deps.json
+C:\Users\USER\Desktop\CSharp\ex07\CSharp07\CSharp07\bin\Debug\net7.0\CSharp07.runtimeconfig.json
+C:\Users\USER\Desktop\CSharp\ex07\CSharp07\CSharp07\bin\Debug\net7.0\CSharp07.dll
+C:\Users\USER\Desktop\CSharp\ex07\CSharp07\CSharp07\bin\Debug\net7.0\CSharp07.pdb
+C:\Users\USER\Desktop\CSharp\ex07\CSharp07\CSharp07\obj\Debug\net7.0\CSharp07.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CSharp\ex07\CSharp07\CSharp07\obj\Debug\net7.0\CSharp07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CSharp\ex07\CSharp07\CSharp07\obj\Debug\net7.0\CSharp07.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CSharp\ex07\CSharp07\CSharp07\obj\Debug\net7.0\CSharp07.AssemblyInfo.cs
+C:\Users\USER\Desktop\CSharp\ex07\CSharp07\CSharp07\obj\Debug\net7.0\CSharp07.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CSharp\ex07\CSharp07\CSharp07\obj\Debug\net7.0\CSharp07.dll
+C:\Users\USER\Desktop\CSharp\ex07\CSharp07\CSharp07\obj\Debug\net7.0\refint\CSharp07.dll
+C:\Users\USER\Desktop\CSharp\ex07\CSharp07\CSharp07\obj\Debug\net7.0\CSharp07.pdb
+C:\Users\USER\Desktop\CSharp\ex07\CSharp07\CSharp07\obj\Debug\net7.0\CSharp07.genruntimeconfig.cache
+C:\Users\USER\Desktop\CSharp\ex07\CSharp07\CSharp07\obj\Debug\net7.0\ref\CSharp07.dll
