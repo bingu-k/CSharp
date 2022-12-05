@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C861D3F2-993E-4562-9EED-94CCFFD81AC0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Algorithm01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithm01/Program.cs">
+    <Files>
+      <File FileName="Algorithm01/Program.cs" Line="13" Column="1" />
+      <File FileName="Algorithm01/Board.cs" Line="15" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Algorithm01" expanded="True">
+            <Node name="Algorithm01" expanded="True">
+              <Node name="Board.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

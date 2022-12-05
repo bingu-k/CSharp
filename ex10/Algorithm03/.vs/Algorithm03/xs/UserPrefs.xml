@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A24B29C0-C775-4F53-A63F-FE6BB7E13C9A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithm03/Player.cs">
+    <Files>
+      <File FileName="Algorithm03/Program.cs" Line="14" Column="35" />
+      <File FileName="Algorithm03/Player.cs" Line="4" Column="14" />
+      <File FileName="Algorithm03/Board.cs" Line="144" Column="70" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Algorithm03" expanded="True">
+            <Node name="Algorithm03" expanded="True">
+              <Node name="Board.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Algorithm03 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

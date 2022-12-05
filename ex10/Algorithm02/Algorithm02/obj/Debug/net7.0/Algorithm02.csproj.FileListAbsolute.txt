@@ -1,0 +1,15 @@
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm02/Algorithm02/bin/Debug/net7.0/Algorithm02
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm02/Algorithm02/bin/Debug/net7.0/Algorithm02.deps.json
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm02/Algorithm02/bin/Debug/net7.0/Algorithm02.runtimeconfig.json
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm02/Algorithm02/bin/Debug/net7.0/Algorithm02.dll
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm02/Algorithm02/bin/Debug/net7.0/Algorithm02.pdb
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm02/Algorithm02/obj/Debug/net7.0/Algorithm02.csproj.AssemblyReference.cache
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm02/Algorithm02/obj/Debug/net7.0/Algorithm02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm02/Algorithm02/obj/Debug/net7.0/Algorithm02.AssemblyInfoInputs.cache
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm02/Algorithm02/obj/Debug/net7.0/Algorithm02.AssemblyInfo.cs
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm02/Algorithm02/obj/Debug/net7.0/Algorithm02.csproj.CoreCompileInputs.cache
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm02/Algorithm02/obj/Debug/net7.0/Algorithm02.dll
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm02/Algorithm02/obj/Debug/net7.0/refint/Algorithm02.dll
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm02/Algorithm02/obj/Debug/net7.0/Algorithm02.pdb
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm02/Algorithm02/obj/Debug/net7.0/Algorithm02.genruntimeconfig.cache
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm02/Algorithm02/obj/Debug/net7.0/ref/Algorithm02.dll

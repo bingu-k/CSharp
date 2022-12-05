@@ -1,0 +1,15 @@
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm03/Algorithm03/bin/Debug/net7.0/Algorithm03
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm03/Algorithm03/bin/Debug/net7.0/Algorithm03.deps.json
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm03/Algorithm03/bin/Debug/net7.0/Algorithm03.runtimeconfig.json
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm03/Algorithm03/bin/Debug/net7.0/Algorithm03.dll
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm03/Algorithm03/bin/Debug/net7.0/Algorithm03.pdb
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm03/Algorithm03/obj/Debug/net7.0/Algorithm03.csproj.AssemblyReference.cache
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm03/Algorithm03/obj/Debug/net7.0/Algorithm03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm03/Algorithm03/obj/Debug/net7.0/Algorithm03.AssemblyInfoInputs.cache
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm03/Algorithm03/obj/Debug/net7.0/Algorithm03.AssemblyInfo.cs
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm03/Algorithm03/obj/Debug/net7.0/Algorithm03.csproj.CoreCompileInputs.cache
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm03/Algorithm03/obj/Debug/net7.0/Algorithm03.dll
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm03/Algorithm03/obj/Debug/net7.0/refint/Algorithm03.dll
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm03/Algorithm03/obj/Debug/net7.0/Algorithm03.pdb
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm03/Algorithm03/obj/Debug/net7.0/Algorithm03.genruntimeconfig.cache
+/Users/byeukim/Desktop/CSharp/ex10/Algorithm03/Algorithm03/obj/Debug/net7.0/ref/Algorithm03.dll
