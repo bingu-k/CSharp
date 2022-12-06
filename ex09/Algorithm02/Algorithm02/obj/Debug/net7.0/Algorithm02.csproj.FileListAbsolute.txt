@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\CSharp\ex09\Algorithm02\Algorithm02\obj\Debug\net7.0\Algorithm02.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CSharp\ex09\Algorithm02\Algorithm02\obj\Debug\net7.0\Algorithm02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CSharp\ex09\Algorithm02\Algorithm02\obj\Debug\net7.0\Algorithm02.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CSharp\ex09\Algorithm02\Algorithm02\obj\Debug\net7.0\Algorithm02.AssemblyInfo.cs
+C:\Users\USER\Desktop\CSharp\ex09\Algorithm02\Algorithm02\obj\Debug\net7.0\Algorithm02.csproj.CoreCompileInputs.cache

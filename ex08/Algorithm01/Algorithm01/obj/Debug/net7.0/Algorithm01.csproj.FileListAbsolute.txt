@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\CSharp\ex08\Algorithm01\Algorithm01\bin\Debug\net7.0\Algorithm01.exe
+C:\Users\USER\Desktop\CSharp\ex08\Algorithm01\Algorithm01\bin\Debug\net7.0\Algorithm01.deps.json
+C:\Users\USER\Desktop\CSharp\ex08\Algorithm01\Algorithm01\bin\Debug\net7.0\Algorithm01.runtimeconfig.json
+C:\Users\USER\Desktop\CSharp\ex08\Algorithm01\Algorithm01\bin\Debug\net7.0\Algorithm01.dll
+C:\Users\USER\Desktop\CSharp\ex08\Algorithm01\Algorithm01\bin\Debug\net7.0\Algorithm01.pdb
+C:\Users\USER\Desktop\CSharp\ex08\Algorithm01\Algorithm01\obj\Debug\net7.0\Algorithm01.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CSharp\ex08\Algorithm01\Algorithm01\obj\Debug\net7.0\Algorithm01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CSharp\ex08\Algorithm01\Algorithm01\obj\Debug\net7.0\Algorithm01.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CSharp\ex08\Algorithm01\Algorithm01\obj\Debug\net7.0\Algorithm01.AssemblyInfo.cs
+C:\Users\USER\Desktop\CSharp\ex08\Algorithm01\Algorithm01\obj\Debug\net7.0\Algorithm01.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CSharp\ex08\Algorithm01\Algorithm01\obj\Debug\net7.0\Algorithm01.dll
+C:\Users\USER\Desktop\CSharp\ex08\Algorithm01\Algorithm01\obj\Debug\net7.0\refint\Algorithm01.dll
+C:\Users\USER\Desktop\CSharp\ex08\Algorithm01\Algorithm01\obj\Debug\net7.0\Algorithm01.pdb
+C:\Users\USER\Desktop\CSharp\ex08\Algorithm01\Algorithm01\obj\Debug\net7.0\Algorithm01.genruntimeconfig.cache
+C:\Users\USER\Desktop\CSharp\ex08\Algorithm01\Algorithm01\obj\Debug\net7.0\ref\Algorithm01.dll
