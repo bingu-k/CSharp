@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Algorithm03\bin\Debug\net7.0\Algorithm03.exe
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Algorithm03\bin\Debug\net7.0\Algorithm03.deps.json
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Algorithm03\bin\Debug\net7.0\Algorithm03.runtimeconfig.json
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Algorithm03\bin\Debug\net7.0\Algorithm03.dll
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Algorithm03\bin\Debug\net7.0\Algorithm03.pdb
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Algorithm03\obj\Debug\net7.0\Algorithm03.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Algorithm03\obj\Debug\net7.0\Algorithm03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Algorithm03\obj\Debug\net7.0\Algorithm03.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Algorithm03\obj\Debug\net7.0\Algorithm03.AssemblyInfo.cs
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Algorithm03\obj\Debug\net7.0\Algorithm03.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Algorithm03\obj\Debug\net7.0\Algorithm03.dll
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Algorithm03\obj\Debug\net7.0\refint\Algorithm03.dll
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Algorithm03\obj\Debug\net7.0\Algorithm03.pdb
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Algorithm03\obj\Debug\net7.0\Algorithm03.genruntimeconfig.cache
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Algorithm03\obj\Debug\net7.0\ref\Algorithm03.dll

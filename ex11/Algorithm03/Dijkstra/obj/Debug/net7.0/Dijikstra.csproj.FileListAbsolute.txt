@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Dijkstra\obj\Debug\net7.0\Dijikstra.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Dijkstra\obj\Debug\net7.0\Dijikstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Dijkstra\obj\Debug\net7.0\Dijikstra.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Dijkstra\obj\Debug\net7.0\Dijikstra.AssemblyInfo.cs
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Dijkstra\obj\Debug\net7.0\Dijikstra.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Dijkstra\bin\Debug\net7.0\Dijikstra.exe
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Dijkstra\bin\Debug\net7.0\Dijikstra.deps.json
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Dijkstra\bin\Debug\net7.0\Dijikstra.runtimeconfig.json
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Dijkstra\bin\Debug\net7.0\Dijikstra.dll
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Dijkstra\bin\Debug\net7.0\Dijikstra.pdb
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Dijkstra\obj\Debug\net7.0\Dijikstra.dll
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Dijkstra\obj\Debug\net7.0\refint\Dijikstra.dll
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Dijkstra\obj\Debug\net7.0\Dijikstra.pdb
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Dijkstra\obj\Debug\net7.0\Dijikstra.genruntimeconfig.cache
+C:\Users\USER\Desktop\CSharp\ex11\Algorithm03\Dijkstra\obj\Debug\net7.0\ref\Dijikstra.dll
