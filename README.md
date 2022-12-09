@@ -27,3 +27,7 @@
   - Section 2. 미로 준비
 - ex11
   - Section 3. 그래프
+- ex12
+  - Section 4. 트리
+- ex13
+  - Section 5. A* 길찾기 
